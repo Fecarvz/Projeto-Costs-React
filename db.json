@@ -1,0 +1,62 @@
+{
+  "projects": [
+    {
+      "name": "Site",
+      "budget": "20000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 1
+    },
+    {
+      "name": "aspodkpoadkpoas",
+      "budget": "231321",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 2
+    },
+    {
+      "name": "adamda",
+      "budget": "2222222",
+      "category": {
+        "id": "4",
+        "name": "Planejamentos"
+      },
+      "cost": 22,
+      "services": [
+        {
+          "name": "asmdoadpo",
+          "cost": "22",
+          "description": "a",
+          "id": "ab4be889-6f76-41fe-8307-8483a2ea0dc5"
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamentos"
+    }
+  ]
+}
